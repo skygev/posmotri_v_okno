@@ -1,1 +1,1 @@
-https://github.com/skygev/posmotri_v_okno
+https://github.com/skygev/posmotri_v_okno.git
